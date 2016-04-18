@@ -1,16 +1,16 @@
 title: NamNamBulu
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 1
+layout_spectrum: 0.4010025
 favicon: null
 name: NamNamBulu
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -29,11 +29,11 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.9692982
-  lightness: 0.7011278
   saturation: 0.6008772
-  rhythmicContrast: 0.8684211
   brandColors:
     - '#FFCE06'
     - '#171715'
     - '#866E10'
-typography_spectrum: 0.6497494
+  lightness: 0.7011278
+  rhythmicContrast: 0.8684211
+typography_spectrum: 0.4542606
