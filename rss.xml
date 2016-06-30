@@ -4,14 +4,21 @@
         <description><![CDATA[NamNamBulu]]></description>
         <link>https://thegrid.ai/namnambulu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 13:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 13:19:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/namnambulu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[NamNamBulu Logo]]></title>
-            <description><![CDATA[<article><h1>NamNamBulu Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/867942bb7deef11b69733adf8f91c6c816b9dc0a.png"></article>]]></description>
-            <link>https://thegrid.ai/namnambulu/eaf24e31-8d08-4404-958e-ea43f63e3e08/index.html</link>
-            <guid isPermaLink="false">eaf24e31-8d08-4404-958e-ea43f63e3e08</guid>
-            <pubDate>Tue, 15 Mar 2016 11:30:05 GMT</pubDate>
+            <title><![CDATA[Upcomig album Borders]]></title>
+            <description><![CDATA[<p>As promised, here is the second teaser from our forthcoming album "Borders". One of my favourite songs on the album. I really like Henriks vocals on this one as the vocal line was a bit unusual for NNB but the interpretation is wonderful. More to follow soon.</p>]]></description>
+            <link>https://thegrid.ai/namnambulu/upcomig-album-borders/index.html</link>
+            <guid isPermaLink="false">3b1f510e-1364-4069-80c0-842be57688ae</guid>
+            <pubDate>Thu, 30 Jun 2016 13:19:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Henrik Iversen]]></title>
+            <description><![CDATA[<article><h1>Henrik Iversen</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38608b74c50071a3e8613e1d0adf212d6c11d7bb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/namnambulu/e11471c4-51ff-4740-8747-d853e63d1161/index.html</link>
+            <guid isPermaLink="false">e11471c4-51ff-4740-8747-d853e63d1161</guid>
+            <pubDate>Thu, 25 Feb 2016 06:26:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,20 +33,6 @@
             <link>https://thegrid.ai/namnambulu/461cb236-b0c9-4b92-8faf-7deb3ea15853/index.html</link>
             <guid isPermaLink="false">461cb236-b0c9-4b92-8faf-7deb3ea15853</guid>
             <pubDate>Wed, 24 Feb 2016 22:16:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Henrik Iversen]]></title>
-            <description><![CDATA[<article><h1>Henrik Iversen</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38608b74c50071a3e8613e1d0adf212d6c11d7bb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/namnambulu/e11471c4-51ff-4740-8747-d853e63d1161/index.html</link>
-            <guid isPermaLink="false">e11471c4-51ff-4740-8747-d853e63d1161</guid>
-            <pubDate>Thu, 25 Feb 2016 06:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NamNamBulu Official Grid Page]]></title>
-            <description><![CDATA[<p>NamNamBulu is on the Grid</p>]]></description>
-            <link>https://thegrid.ai/namnambulu/namnambulu-official-grid-page/index.html</link>
-            <guid isPermaLink="false">ddf3bd18-60c9-471c-9a1b-ed6135a10917</guid>
-            <pubDate>Wed, 24 Feb 2016 22:03:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
