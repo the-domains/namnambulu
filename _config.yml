@@ -1,20 +1,8 @@
-title: NamNamBulu
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.2224311
-favicon: null
 name: NamNamBulu
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.89599
+title: NamNamBulu
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.03634085
-  lightness: 0.7011278
-  saturation: 0.6008772
-  rhythmicContrast: 0.8684211
   brandColors:
     - '#FFCE06'
     - '#F4C505'
     - '#151513'
     - '#CAA21C'
     - '#FFE900'
-typography_spectrum: 0.89599
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
