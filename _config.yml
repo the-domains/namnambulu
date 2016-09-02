@@ -28,6 +28,9 @@ navigation:
   - name: Booking
     url: 'http://www.contribe.de'
     type: external
+  - name: Label
+    url: 'http://www.infacted-recordings.de'
+    type: external
 favicon: null
 collections:
   - index:
